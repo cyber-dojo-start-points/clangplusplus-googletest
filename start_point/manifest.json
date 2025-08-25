@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/clangpp_googletest:1d77d5a",
-  "display_name": "C++ (clang++), GoogleTest",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_googletest:8f6cbb8",
+  "display_name": "C++ (clang++ 18.1.3), GoogleTest 1.14.0",
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
