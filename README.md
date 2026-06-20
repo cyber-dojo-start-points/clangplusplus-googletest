@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/clangplusplus-googletest/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/clangplusplus-googletest/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="C++ (clang++ 18.1.3), GoogleTest 1.14.0"
 ### image_name="[ghcr.io/cyber-dojo-languages/clangpp_googletest](https://ghcr.io/cyber-dojo-languages/clangpp_googletest)"
