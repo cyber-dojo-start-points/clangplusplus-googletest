@@ -1,0 +1,15 @@
+{
+  "matches": [
+    "^==[0-9]+==The signal is caused by a READ memory access\\.$",
+    "^==[0-9]+==Hint: address points to the zero page\\.$"
+  ],
+  "match_counts": {
+    "^\\[==========\\] Running 1 test from 1 test suite\\.$": 1,
+    "^\\[ RUN      \\] Hiker\\.Life_the_universe_and_everything$": 1,
+    "^AddressSanitizer:DEADLYSIGNAL$": 1,
+    "^AddressSanitizer can not provide additional info\\.$": 1,
+    "^==[0-9]+==ABORTING$": 1,
+    "^\\[  PASSED  \\] ": 0,
+    "^\\[  FAILED  \\] ": 0
+  }
+}

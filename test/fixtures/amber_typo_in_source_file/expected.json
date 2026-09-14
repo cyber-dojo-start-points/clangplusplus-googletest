@@ -1,0 +1,8 @@
+{
+  "matches": [ "^hiker\\.cpp:[0-9]+:[0-9]+: error: use of undeclared identifier 'sevn'; did you mean 'seven'\\?$" ],
+  "match_counts": {
+    "^1 error generated\\.$": 1,
+    "^make: \\*\\*\\* \\[makefile:[0-9]+: hiker\\.o\\] Error 1$": 1,
+    "^\\[==========\\] Running ": 0
+  }
+}

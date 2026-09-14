@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "undefined reference to .testing::UnitTest::Run\\(\\).$",
+    "libgtest_main\\.a\\(gtest_main\\.cc\\.o\\): in function .main.:$"
+  ],
+  "match_counts": {
+    "^clang\\+\\+: error: linker command failed with exit code 1 \\(use -v to see invocation\\)$": 1,
+    "^make: \\*\\*\\* \\[makefile:[0-9]+: test\\] Error 1$": 1,
+    "^\\[==========\\] Running ": 0,
+    "^\\[  PASSED  \\] ": 0
+  }
+}

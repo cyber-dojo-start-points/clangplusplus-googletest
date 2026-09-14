@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^==[0-9]+==The signal is caused by a READ memory access\\.$"
+  ],
+  "match_counts": {
+    "^\\[==========\\] Running 2 tests from 1 test suite\\.$": 1,
+    "^\\[ RUN      \\] Hiker\\.": 1,
+    "^AddressSanitizer:DEADLYSIGNAL$": 1,
+    "^==[0-9]+==ABORTING$": 1,
+    "^\\[  PASSED  \\] ": 0,
+    "^\\[  FAILED  \\] ": 0
+  }
+}
