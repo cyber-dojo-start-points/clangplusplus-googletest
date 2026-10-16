@@ -1,7 +1,7 @@
 {
   "matches": [
     "^==[0-9]+==The signal is caused by a READ memory access\\.$",
-    "^==[0-9]+==Hint: address points to the zero page\\.$"
+    "^==[0-9]+==HINT: address points to the zero page\\.$"
   ],
   "match_counts": {
     "^\\[==========\\] Running 1 test from 1 test suite\\.$": 1,
