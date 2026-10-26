@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_googletest:14c3ed2@sha256:cf6626e28629dbf08488e0ac10b02e19e0730107acfe00d04223829b9490723c",
-  "display_name": "C++ (clang++ 23.1.4), GoogleTest 1.18.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_googletest:c5cb69c@sha256:04a3f98b2388eec16872814affed7bfd269da590211e5257cbc868e7ea99284d",
+  "display_name": "C++ (clang++ 23.1.5), GoogleTest 1.18.0",
   "language": [
     "C++ (clang++)",
-    "23.1.4"
+    "23.1.5"
   ],
   "test_framework": [
     "GoogleTest",

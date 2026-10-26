@@ -1,6 +1,6 @@
 [![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-### display_name="C++ (clang++ 23.1.4), GoogleTest 1.18.0"
+### display_name="C++ (clang++ 23.1.5), GoogleTest 1.18.0"
 ### image_name="[ghcr.io/cyber-dojo-languages/clangpp_googletest](https://ghcr.io/cyber-dojo-languages/clangpp_googletest)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
